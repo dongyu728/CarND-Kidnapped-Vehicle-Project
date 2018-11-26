@@ -1,4 +1,4 @@
-#CarND-Kidnapped-Vehicle
+# CarND-Kidnapped-Vehicle
 Udacity Self-Driving Car Engineer Nanodegree Program, Term 2 ,Project 3 - Kidnapped Vehicle
 
 ## Project Basics
@@ -16,4 +16,4 @@ I was build in Ubuntu 16.04:
 4. run it: ./particle_filter
 
 ## Results
-![result](result-img/result.png)
+![result](result_img/result.png)
